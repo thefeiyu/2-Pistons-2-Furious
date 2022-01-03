@@ -3,7 +3,7 @@ Ever since I drove the go-karts at Fort Fun, I was obsessed with a machine made 
 
 **Planning**
 My plan for this project is to do some research on the fundamental basics of a go-kart: what type of engines are used, how big the wheels should be, gear ratios, etc. After doing some research, I noticed that the shape of a go-kart frame is all the same.
-![costr-telaio-apertura-small2](https://user-images.githubusercontent.com/73752655/147900266-0092b0e5-19c7-4f68-a119-fa466bda7dba.jpg | width=100)
+![costr-telaio-apertura-small2](https://user-images.githubusercontent.com/73752655/147900266-0092b0e5-19c7-4f68-a119-fa466bda7dba.jpg)
 ![CIA_Kart_Chassis_Drawing](https://user-images.githubusercontent.com/73752655/147900278-c062a4ed-e7a2-4f34-91b0-2e5e5de90113.gif)
 It is generally on a flat plane and really compact. One concern that I had with this design is its safety. Although you can add bumpers to it, there are no doors/walls around the driver, meaning that your arms and body would be exposed. Instead, I decided to design my own frame, making it more like a car roll cage so that the driver will be protected all around.
 ![e6bcfb40e009dc08d2410120ef9bbe4f](https://user-images.githubusercontent.com/73752655/147900315-49402ec5-25c2-4650-85df-753a1232c431.jpg)
